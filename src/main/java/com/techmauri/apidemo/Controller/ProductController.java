@@ -1,4 +1,4 @@
-package com.techmauri.apidemo;
+package com.techmauri.apidemo.Controller;
 
 import java.util.*;
 

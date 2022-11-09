@@ -5,7 +5,7 @@ import java.util.List;
 import javax.transaction.Transactional;
 
 import com.techmauri.apidemo.Model.Product;
-import com.techmauri.apidemo.ProductRepository;
+import com.techmauri.apidemo.Interface.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
